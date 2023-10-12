@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/veejayz-hub/static/css/main.bc8b75d8.css",
+    "main.js": "/veejayz-hub/static/js/main.fa9286ab.js",
+    "index.html": "/veejayz-hub/index.html",
+    "main.bc8b75d8.css.map": "/veejayz-hub/static/css/main.bc8b75d8.css.map",
+    "main.fa9286ab.js.map": "/veejayz-hub/static/js/main.fa9286ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc8b75d8.css",
+    "static/js/main.fa9286ab.js"
+  ]
+}
