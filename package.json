@@ -26,8 +26,11 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "node -r esm ./node_modules/.bin/jest --setupFiles ./setupTests.js",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
+  "homepage": "https://jkanyi-web.github.io/veejayz-hub",
   "eslintConfig": {
     "extends": [
       "react-app",
@@ -61,6 +64,7 @@
     "eslint-plugin-react": "^7.33.2",
     "eslint-plugin-react-hooks": "^4.6.0",
     "esm": "^3.2.25",
+    "gh-pages": "^6.0.0",
     "redux-mock-store": "^1.5.4",
     "stylelint": "^13.13.1",
     "stylelint-config-standard": "^21.0.0",
