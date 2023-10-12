@@ -1,6 +1,6 @@
 # Veejayz-Hub
 
-> Single Page Application that fetches data fake-products API, lists the products, filters them by name and displays additional information when clicked on a title link.
+> Single Page Application that fetches data from a fake-products API, lists the products, filters them by name and displays additional information when clicked on a title link.
 
 ## Live version
 
